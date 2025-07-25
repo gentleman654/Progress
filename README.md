@@ -1,6 +1,6 @@
 # 📈 My Developer Progress Journal  
 
-Hi! 👋 I'm [Your Name], a software engineering student passionate about **full-stack web development, DSA, and cloud technologies**.  
+Hi! 👋 I'm Manas Gandotra, a software engineering student passionate about **full-stack web development, DSA, and cloud technologies**.  
 This repository is my **public progress journal**, updated regularly to document my coding journey and milestones.  
 
 ---
@@ -42,7 +42,7 @@ This repository is my **public progress journal**, updated regularly to document
 ### 📌 Projects I'm Building  
 
 [![View My Projects](https://img.shields.io/badge/View-Projects-blue?style=for-the-badge)](https://github.com/gentleman654?tab=repositories)  
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manas-gandotra-627a69244/)
 
 ---
 ⭐ **This repo is my journey—follow along as I grow as a developer!**
