@@ -17,9 +17,9 @@ This repository is my **public progress journal**, updated regularly to document
 
 ## 📊 My GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github-compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=gentleman654&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentleman654&layout=compact)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gentleman654&theme=github-compact)
 
 ---
 
@@ -41,7 +41,7 @@ This repository is my **public progress journal**, updated regularly to document
 
 ### 📌 Projects I'm Building  
 
-[![View My Projects](https://img.shields.io/badge/View-Projects-blue?style=for-the-badge)](https://github.com/YourGitHubUsername?tab=repositories)  
+[![View My Projects](https://img.shields.io/badge/View-Projects-blue?style=for-the-badge)](https://github.com/gentleman654?tab=repositories)  
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 ---
